@@ -92,23 +92,3 @@ This model combines:
 
 ---
 
-## 👨‍💻 Contributors
-
-**Bibek Koirala**
-- EDA visualizations, correlation matrix
-- Model fine-tuning, LinearSVC with NB features
-
-**Surjana Joshi**
-- Feature engineering
-- Logistic Regression and Naive Bayes implementation
-
-**Shared Work**
-- Objective definitions, result analysis, model comparisons, final report
-
----
-
-## 📜 License
-
-This project was developed as part of **CS 591 - Natural Language Processing**  
-Southern Illinois University Carbondale, Fall 2024.
-
