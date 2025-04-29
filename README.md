@@ -92,15 +92,6 @@ This model combines:
 
 ---
 
-## 🧠 Future Work
-
-- Augment low-frequency labels (e.g., threat, identity_hate)
-- Introduce user behavior context (posting history, comment frequency)
-- Explore class-weighted loss or focal loss
-- Test deep learning models (e.g., BERT for multi-label classification)
-
----
-
 ## 👨‍💻 Contributors
 
 **Bibek Koirala**
